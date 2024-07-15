@@ -18,6 +18,7 @@ This repository includes the code, datasets, and reports for the four mini proje
       - Repetition with different feature sets.
 2. **Links:**
       - [Google Drive](https://drive.google.com/drive/folders/18Tu0MROok0rAbPP4Y97x_9MljhZn8AEJ)
+
 **Mini Project 2: Fault Detection with Extended Dataset**
 1. **Tasks:**
       - Dataset extension and analysis.
