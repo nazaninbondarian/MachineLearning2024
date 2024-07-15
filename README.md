@@ -46,23 +46,25 @@ This repository includes the code, datasets, and reports for the four mini proje
       - [Google Drive](https://drive.google.com/drive/folders/147v_LVsJreU_Pg6KVc4gar_UjFSXKEP7)
 
 ## Tools and Libraries
-1. **Python:** Ensure Python is installed.
-2. **Libraries:**
-Libraries: `numpy`, pandas, scikit-learn, matplotlib, seaborn, tensorflow, keras, gym, pygame
-Google Colab: For running and sharing notebooks.
-GitHub: For code versioning and sharing.
-Contribution Guidelines
-Fork the Repository: Make a copy of this repository on your GitHub account.
-Clone the Repository: Download your copy to your local machine.
-Create a New Branch: Work on a separate branch for your changes.
-Commit and Push: Save your changes and push them to your GitHub.
-Pull Request: Submit a pull request to merge your changes into the main repository.
-License
+- **Python:** Ensure Python is installed.
+- **Libraries:** `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `tensorflow`, `keras`
+- **Google Colab:** For running and sharing notebooks.
+- **GitHub:** For code versioning and sharing.
+
+## Contribution Guidelines
+1. **Fork the Repository:** Make a copy of this repository on your GitHub account.
+2. **Clone the Repository:** Download your copy to your local machine.
+3. **Create a New Branch:** Work on a separate branch for your changes.
+4. **Commit and Push:** Save your changes and push them to your GitHub.
+5. **Pull Request:** Submit a pull request to merge your changes into the main repository.
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-scikit-learn Documentation
-Google Colab
-TensorFlow Documentation
-OpenAI Gym
+## Acknowledgements
+- [scikit-learn Documentation](https://scikit-learn.org/stable/api/index.html)
+- [Google Colab](https://colab.research.google.com/)
+- [TensorFlow Documentation](https://www.tensorflow.org/)
+
+***
 This README provides a comprehensive guide for anyone looking to understand, contribute to, or use the course projects. Ensure all links and information are up to date before finalizing the document.
