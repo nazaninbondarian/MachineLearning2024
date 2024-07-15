@@ -12,10 +12,10 @@ This repository includes the code, datasets, and reports for the four mini proje
 ## Project Descriptions
 **Mini Project 1: Linear Classifier Evaluation and Training**
 1. **Tasks:**
-  - Diagrammatic representation of training and evaluation.
-  - Dataset generation using sklearn.datasets.
-  - Hyperparameter tuning and decision boundary visualization.
-  - Repetition with different feature sets.
+      - Diagrammatic representation of training and evaluation.
+      - Dataset generation using sklearn.datasets.
+      - Hyperparameter tuning and decision boundary visualization.
+      - Repetition with different feature sets.
 2. **Links:**
   [Google Drive](https://drive.google.com/drive/folders/18Tu0MROok0rAbPP4Y97x_9MljhZn8AEJ)
 Mini Project 2: Fault Detection with Extended Dataset
