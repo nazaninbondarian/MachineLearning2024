@@ -17,7 +17,7 @@ Dataset generation using sklearn.datasets.
 Hyperparameter tuning and decision boundary visualization.
 Repetition with different feature sets.
 Links:
-[Google Drive Link]https://drive.google.com/drive/folders/18Tu0MROok0rAbPP4Y97x_9MljhZn8AEJ
+[here]https://drive.google.com/drive/folders/18Tu0MROok0rAbPP4Y97x_9MljhZn8AEJ
 Mini Project 2: Fault Detection with Extended Dataset
 Tasks:
 Dataset extension and analysis.
