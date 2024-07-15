@@ -17,7 +17,7 @@ This repository includes the code, datasets, and reports for the four mini proje
       - Hyperparameter tuning and decision boundary visualization.
       - Repetition with different feature sets.
 2. **Links:**
-      - [Google Drive](https://drive.google.com/drive/folders/18Tu0MROok0rAbPP4Y97x_9MljhZn8AEJ)
+      -[Google Drive](https://drive.google.com/drive/folders/1DurmfyJrGhzOfw3Igz8vlM2zN7IH64SW)
 
 **Mini Project 2: Fault Detection with Extended Dataset**
 1. **Tasks:**
@@ -26,14 +26,15 @@ This repository includes the code, datasets, and reports for the four mini proje
       - MLP model training and evaluation.
       - Comparison of optimizers and loss functions.
 2. **Links:**
-Google Drive
-Mini Project 3: SVM on Iris Dataset and Generalized Multiclass SVM
-Tasks:
-SVM implementation on Iris dataset.
-Kernel comparison and visualization.
-SVM from scratch.
-Generalized multiclass SVM implementation.
-Links:
+      -[Google Drive](https://drive.google.com/drive/folders/1BrnONSjWUGlUfimrD60juktJD3gK1nqw)
+
+**Mini Project 3: SVM on Iris Dataset and Generalized Multiclass SVM**
+1. **Tasks:**
+      - SVM implementation on Iris dataset.
+      - Kernel comparison and visualization.
+      - SVM from scratch.
+      - Generalized multiclass SVM implementation.
+2. **Links:**
 Google Drive
 Mini Project 4: Q-learning and Deep Q-Network in Wumpus World
 Tasks:
