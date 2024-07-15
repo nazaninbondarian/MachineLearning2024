@@ -17,7 +17,7 @@ This repository includes the code, datasets, and reports for the four mini proje
       - Hyperparameter tuning and decision boundary visualization.
       - Repetition with different feature sets.
 2. **Links:**
-      -[Google Drive](https://drive.google.com/drive/folders/1DurmfyJrGhzOfw3Igz8vlM2zN7IH64SW)
+      - [Google Drive](https://drive.google.com/drive/folders/1DurmfyJrGhzOfw3Igz8vlM2zN7IH64SW)
 
 **Mini Project 2: Fault Detection with Extended Dataset**
 1. **Tasks:**
@@ -26,7 +26,7 @@ This repository includes the code, datasets, and reports for the four mini proje
       - MLP model training and evaluation.
       - Comparison of optimizers and loss functions.
 2. **Links:**
-      -[Google Drive](https://drive.google.com/drive/folders/1BrnONSjWUGlUfimrD60juktJD3gK1nqw)
+      - [Google Drive](https://drive.google.com/drive/folders/1BrnONSjWUGlUfimrD60juktJD3gK1nqw)
 
 **Mini Project 3: SVM on Iris Dataset and Generalized Multiclass SVM**
 1. **Tasks:**
@@ -35,17 +35,20 @@ This repository includes the code, datasets, and reports for the four mini proje
       - SVM from scratch.
       - Generalized multiclass SVM implementation.
 2. **Links:**
-Google Drive
-Mini Project 4: Q-learning and Deep Q-Network in Wumpus World
-Tasks:
-Q-learning implementation in Wumpus World.
-DQN implementation and training.
-Enhanced reward structures and additional scenarios.
-Links:
-Google Drive
-Tools and Libraries
-Python: Ensure Python is installed.
-Libraries: numpy, pandas, scikit-learn, matplotlib, seaborn, tensorflow, keras, gym, pygame
+      - [Google Drive](https://drive.google.com/drive/folders/1jGEaYzkplmLxT9eO_XlBQrmlBCEk)
+
+**Mini Project 4: Q-learning and Deep Q-Network in Wumpus World**
+1. **Tasks:**
+      - Q-learning implementation in Wumpus World.
+      - DQN implementation and training.
+      - Enhanced reward structures and additional scenarios.
+2. **Links:**
+      - [Google Drive](https://drive.google.com/drive/folders/147v_LVsJreU_Pg6KVc4gar_UjFSXKEP7)
+
+## Tools and Libraries
+1. **Python:** Ensure Python is installed.
+2. **Libraries:**
+Libraries: 'numpy', pandas, scikit-learn, matplotlib, seaborn, tensorflow, keras, gym, pygame
 Google Colab: For running and sharing notebooks.
 GitHub: For code versioning and sharing.
 Contribution Guidelines
