@@ -33,7 +33,7 @@ This repository includes the code, datasets, and reports for the four mini proje
       - SVM from scratch.
       - Generalized multiclass SVM implementation.
 2. **Links:**
-      - [Google Drive](https://drive.google.com/drive/folders/1jGEaYzkplmLxT9eO_XlBQrmlBCEk)
+      - [Google Drive](https://drive.google.com/drive/folders/1jGEaYzkplmLxT9eO_XlBQrmlBCEkRECb)
 ### Mini Project 4: Q-learning and Deep Q-Network in Wumpus World
 1. **Tasks:**
       - Q-learning implementation in Wumpus World.
