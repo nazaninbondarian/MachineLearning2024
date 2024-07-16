@@ -28,6 +28,7 @@ Wumpus World is a classic problem in artificial intelligence and reinforcement l
 3. 50+ points for killing Wumpus
 4. -1 for each move
 *Environment Definition:* Create a 4x4 grid with desired positions for pits, wumpus and gold. Define the initial state and the possible states after each action.
+
 **Setting parameters:**
 1. Learning rate: 0.1
 2. Discount factor: 0.9
