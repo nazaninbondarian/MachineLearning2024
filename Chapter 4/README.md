@@ -40,6 +40,7 @@ Wumpus World is a classic problem in artificial intelligence and reinforcement l
 2. **Code Submission:** All code must be uploaded to both the university portal and GitHub.
 3. **Structured Presentation:** The report should follow a structured format, with clear explanations for each question and section.
 4. **Google Colab Integration:** Ensure your Colab notebooks are set to Public access and include all necessary outputs and code cells.
+
 **Links:**
 - [Google Drive](https://drive.google.com/drive/folders/147v_LVsJreU_Pg6KVc4gar_UjFSXKEP7)
 
