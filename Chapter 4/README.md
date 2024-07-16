@@ -34,7 +34,7 @@ Wumpus World is a classic problem in artificial intelligence and reinforcement l
 2. Discount factor: 0.9
 3. Discovery rate: starts from 1.0 and decreases over time According to the general things said about the problem.
 ### Important Dates
-- **Project 4 Submission Deadline:** 18:00, Monday, July 11, 140
+- **Project 4 Submission Deadline:** 18:00, Monday, July 11, 2024
 ### Project Requirements
 1. **Report:** A comprehensive textual report is required, covering all aspects of the project. This includes explanations and results for each section.
 2. **Code Submission:** All code must be uploaded to both the university portal and GitHub.
