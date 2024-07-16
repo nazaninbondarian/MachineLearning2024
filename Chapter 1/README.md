@@ -10,6 +10,7 @@ This repository includes the code, datasets, and reports for the second mini pro
 2. **Code Submission:** All code must be uploaded to both the university portal and GitHub.
 3. **Structured Presentation:** The report should follow a structured format, with clear explanations for each question and section.
 4. **Google Colab Integration:** Ensure your Colab notebooks are set to Public access and include all necessary outputs and code cells.
+
 **Links:**
 - [Google Drive](https://drive.google.com/drive/folders/1DurmfyJrGhzOfw3Igz8vlM2zN7IH64SW)
 
