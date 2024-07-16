@@ -1,10 +1,10 @@
 # MachineLearning2024 - HomeWork  1
-Welcome to the official GitHub repository for the "Machine Learning" course for the Spring 1403 at **Khaje Nasir Toosi University of Technology (KNTU)**. This project is designed to build upon the foundational skills from the first project and introduce more advanced topics in machine learning, data analysis, and algorithm implementation.
+Welcome to the official GitHub repository for the "Machine Learning" course for the Spring 1403 at **Khaje Nasir Toosi University of Technology (KNTU)**. This project involves several tasks aimed at enhancing your understanding and skills in machine learning, data analysis, and algorithm implementation.
 
 ## Introduction
 This repository includes the code, datasets, and reports for the second mini project. The project is divided into several sections, each focusing on different aspects of machine learning. Detailed instructions and requirements for each part are provided below.
 ### Important Dates
-- **Project 1 Submission Deadline:** 18:00, Friday, April 17, 1403
+- **Project 1 Submission Deadline:** 18:00, Friday, April 17, 2024
 ### Project Requirements
 1. **Report:** A comprehensive textual report is required, covering all aspects of the project. This includes explanations and results for each section.
 2. **Code Submission:** All code must be uploaded to both the university portal and GitHub.
@@ -15,24 +15,24 @@ This repository includes the code, datasets, and reports for the second mini pro
 - [Google Drive](https://drive.google.com/drive/folders/1DurmfyJrGhzOfw3Igz8vlM2zN7IH64SW)
 
 ## Project Tasks
-### Question 1: Neural Network Activation Functions
-1. **Activation Function Analysis:** Assume a binary classification problem with a neural network that has two different activation functions (Sigmoid and ReLU) in the final layer. Analyze the implications.
-2. **ReLU Replacement:** Provide an equation and explanation for a replacement of the ReLU activation function, detailing its benefits.
-3. **McCulloch-Pitts Neuron Design:** Design a simple neuron or perceptron that can distinguish the shaded triangular area from the rest in a given plot. Implement the network and visualize the results.
-### Question 2: Fault Detection with Extended Dataset
-1. **Dataset Extension:** Extend the previous mini project dataset by adding two more classes from the CWRU Bearing dataset. Analyze and provide a brief explanation of the faults related to each class.
-2. **Feature Extraction and Data Preparation:** Implement the previous steps of data preparation and feature extraction on the new dataset. Add a validation set alongside training and test sets.
-3. **MLP Model Training:** Train a simple Multi-Layer Perceptron (MLP) with two hidden layers. Evaluate the model using appropriate metrics and visualize the results.
-4. **Optimizer and Loss Function Comparison:** Compare the results using different optimizers and loss functions. Analyze the impact of these changes on the model's performance.
-### Question 3: Decision Tree Classification
-1. **Dataset Analysis:** Choose a dataset related to drug classification or forest cover type. Split the data into training and test sets, and explain the method used for splitting.
-2. **Decision Tree Implementation:** Implement a decision tree classifier. Evaluate its performance using confusion matrix and other relevant metrics. Visualize and analyze the results.
-3. **Hyperparameter Tuning:** Experiment with different hyperparameters, such as pruning settings. Explain the impact of these changes on the model's performance.
-4. **Advanced Methods:** Explore and implement advanced ensemble methods like Random Forests and AdaBoost to improve the model's performance.
-### Question 4: Heart Disease Dataset
-1. **Dataset Analysis:** Use the Heart Disease dataset, split into training and test sets. Preprocess the data appropriately.
-2. **Naive Bayes Classification:** Implement a Gaussian Naive Bayes classifier. Compare and analyze the results using both Micro and Macro averaging.
-3. **Prediction Analysis:** Randomly select five data points from the test set, compare predicted outputs with actual values, and analyze the differences.
+### Question 1: Linear Classifier Evaluation and Training
+1. **Diagrammatic Representation:** Train and evaluate a linear classifier. Provide a block diagram illustrating the process. Explain how to modify the block diagram for multi-class classification.
+2. **Dataset Generation:** Use sklearn.datasets to generate a dataset with 1000 samples, 4 classes, and 3 features. Display and discuss the dataset's challenges.
+3. **Hyperparameter Tuning:** Use sklearn.linear_model to train a linear classifier. Detail the hyperparameter tuning process and results.
+4. **Decision Boundaries:** Visualize decision boundaries and misclassified samples.
+5. **Repetition:** Repeat the process with different feature sets and class numbers using drawdata.
+### Question 2: Fault Detection Dataset
+1. **Dataset Familiarization:** Investigate the CWRU Bearing dataset, identifying various features and states.
+2. **Data Preparation:** Download and preprocess the normal and faulty data, creating a labeled matrix.
+3. **Feature Extraction:** Extract features using at least 8 methods listed in the project document. Form a new dataset.
+4. **Data Shuffling:** Explain the importance of shuffling and split the data into training and evaluation sets.
+5. **Data Normalization:** Normalize the data using at least two methods. Discuss the process and its importance.
+6. **Model Training:** Train a classifier without using pre-built libraries. Evaluate the results and analyze the loss function.
+### Question 3: Weather Data Analysis
+1. **Dataset Analysis:** Analyze the Weather in Szeged dataset, focusing on the relationship between `Temperature` and `Humidity`.
+2. **Model Implementation:** Implement RLS and LS models for temperature prediction. Compare the results.
+3. **Weighted Least Squares:** Implement and explain the WLS method.
+4. **Advanced Algorithm:** Research and implement the QR-Decomposition-Based RLS algorithm (optional).
 
 ## Tools and Libraries
 - **Python:** Ensure Python is installed.
