@@ -1,5 +1,5 @@
 # MachineLearning2024 - HomeWork 4
-Welcome to the official GitHub repository for the "Machine Learning" course for the Spring 1403 at **Khaje Nasir Toosi University of Technology (KNTU)**. This repository contains all the mini projects assigned throughout the course, each designed to enhance your understanding and skills in various aspects of machine learning, data analysis, and algorithm implementation.
+Welcome to the official GitHub repository for the "Machine Learning" course for the Spring 1403 at **Khaje Nasir Toosi University of Technology (KNTU)**. This project explores advanced topics in machine learning, focusing on reinforcement learning algorithms such as Q-learning and Deep Q-Network (DQN).
 ## Introduction
 This repository includes the code, datasets, and reports for the fourth mini project. The project involves implementing and comparing reinforcement learning algorithms in a simulated environment, specifically the Wumpus World. Detailed instructions and requirements for each part are provided below.
 
