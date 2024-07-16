@@ -47,7 +47,7 @@ This repository includes the code, datasets, and reports for the four mini proje
 
 ## Tools and Libraries
 - **Python:** Ensure Python is installed.
-- **Libraries:** `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `tensorflow`, `keras`
+- **Libraries:** `numpy`, `pandas`, `matplotlib`, `tensorflow`, `keras`
 - **Google Colab:** For running and sharing notebooks.
 - **GitHub:** For code versioning and sharing.
 
