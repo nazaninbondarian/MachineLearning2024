@@ -1,5 +1,6 @@
 # MachineLearning2024 - HomeWork 4
 Welcome to the official GitHub repository for the "Machine Learning" course for the Spring 1403 at **Khaje Nasir Toosi University of Technology (KNTU)**. This project explores advanced topics in machine learning, focusing on reinforcement learning algorithms such as Q-learning and Deep Q-Network (DQN).
+
 ## Introduction
 This repository includes the code, datasets, and reports for the fourth mini project. The project involves implementing and comparing reinforcement learning algorithms in a simulated environment, specifically the Wumpus World. Detailed instructions and requirements for each part are provided below.
 
@@ -22,28 +23,22 @@ Wumpus World is a classic problem in artificial intelligence and reinforcement l
 *Visualizations:* Wumpus moves left, right, up, or down on the grid with each action change (points).
 
 **Reward space:**
-
 1. 100+ to get gold
 2. -1000 for falling into a pit or being eaten by Wumpus
 3. 50+ points for killing Wumpus
 4. -1 for each move
 *Environment Definition:* Create a 4x4 grid with desired positions for pits, wumpus and gold. Define the initial state and the possible states after each action.
-
 **Setting parameters:**
-
 1. Learning rate: 0.1
 2. Discount factor: 0.9
 3. Discovery rate: starts from 1.0 and decreases over time According to the general things said about the problem.
-
 ### Important Dates
 - **Project 4 Submission Deadline:** 18:00, Monday, July 11, 140
-
 ### Project Requirements
 1. **Report:** A comprehensive textual report is required, covering all aspects of the project. This includes explanations and results for each section.
 2. **Code Submission:** All code must be uploaded to both the university portal and GitHub.
 3. **Structured Presentation:** The report should follow a structured format, with clear explanations for each question and section.
 4. **Google Colab Integration:** Ensure your Colab notebooks are set to Public access and include all necessary outputs and code cells.
-
 **Links:**
 - [Google Drive](https://drive.google.com/drive/folders/147v_LVsJreU_Pg6KVc4gar_UjFSXKEP7)
 
