@@ -1,4 +1,4 @@
-#MachineLearning2024 - HomeWork 2 - Question 3
+# MachineLearning2024 - HomeWork 2 - Question 3
 ## Decision Tree Classification
 1. **Dataset Analysis:** Choose a dataset related to drug classification or forest cover type. Split the data into training and test sets, and explain the method used for splitting.
 2. **Decision Tree Implementation:** Implement a decision tree classifier. Evaluate its performance using confusion matrix and other relevant metrics. Visualize and analyze the results.
