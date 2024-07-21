@@ -1,4 +1,4 @@
-# MachineLearning2024 - Project
+# MachineLearning2024 - Final Project
 Welcome to the official GitHub repository for the "Machine Learning" course for the Spring 1403 at **Khaje Nasir Toosi University of Technology (KNTU)**. This project explores PyKoopman package.
 
 ## Introduction
